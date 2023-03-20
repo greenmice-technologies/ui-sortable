@@ -8,8 +8,8 @@
   "main": "./src/sortable.js",
   "dependencies": {
     "angular": ">=1.2.x",
-    "jquery": ">=3.1.x",
-    "jquery-ui-dist": ">=1.12.x"
+    "jquery": ">=3.6.x",
+    "jquery-ui-dist": "https://github.com/jquery/jquery-ui.git#>=1.13.x"
   },
   "devDependencies": {
     "angular-ui-publisher": "1.2.x",
